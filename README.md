@@ -1,4 +1,4 @@
-[logo](https://i0.wp.com/winwaystraining.org/wp-content/uploads/2022/02/Android-App-Development-2.jpg?fit=1950%2C720&ssl=1)
+![logo](https://i0.wp.com/winwaystraining.org/wp-content/uploads/2022/02/Android-App-Development-2.jpg?fit=1950%2C720&ssl=1)
 <h1 align="center">Hi 👋, I'm Zameer Hussain</h1>
 <h3 align="center">Passionate Android and Java Developer | Open Source Enthusiast | Tech Explorer</h3>
 <img align="right" alt="coding" width="400", src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
